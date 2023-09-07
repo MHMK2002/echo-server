@@ -9,4 +9,4 @@ This is a simple echo server that listens on port 8000 and returns the same data
 
 ### Usage
 
-        python manage.py runserver 8000
+    python manage.py runserver 8000
